@@ -674,7 +674,7 @@ class Cgraph:
 
 workingPath = "/Users/crab_baby/Google Drive/IO Verification/Jane/"
 ## The layer testnet2 must be active when running this program in QGIS3
-cg = Cgraph("testnet2")
+cg = Cgraph("studynetwork")
 print("start constructing")
 cg.construct_edges()
 print("construct succ")
